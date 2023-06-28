@@ -1,6 +1,6 @@
-# Presentation iTalk 2023
+# Presentation for CRDM group
 
-iTalk lunchtime presentation given by Max De Wilde about the EU Knowledge Graph
+Presentation given by Max De Wilde for the Corporate Reference Data Management group
 
 ## To deploy
 
